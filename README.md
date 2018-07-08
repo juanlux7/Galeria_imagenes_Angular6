@@ -1,4 +1,4 @@
-# Galeria de imagenes con Angular6
+# Galeria de imagenes con Angular6 - Image gallery with Angular 6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
@@ -25,7 +25,7 @@ En este proyecto se ha desarrollado una aplicacion Angular que conecta con un se
  After that, on the Angular enviroments file you must include your new key and save the changes
  
 
-## Herramientas usadas para la elaboracion del proyecto
+## Herramientas usadas para la elaboracion del proyecto - Tools used for the creation of the project
 
 (Español)
 
